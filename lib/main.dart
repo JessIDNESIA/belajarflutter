@@ -52,6 +52,8 @@ class _CounterAppState extends State<CounterApp> {
   }
 }
 
+
+// Ini buat menjalankan aplikasi
 void main() {
   runApp(const CounterApp());
 }
